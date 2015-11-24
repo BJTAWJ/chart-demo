@@ -1,0 +1,1 @@
+This Chart Demo on Phonegap with sencha touch2
